@@ -26,7 +26,7 @@ Whether you are moderately enthusiastic about programming or passionately devote
 
 Updating any of our documents on GitHub is the most direct way you can contribute to our help files:
 
-**Step 1:** [Fork](https://help.github.com/articles/fork-a-repo/) our documentation.
+**Step 1:** [Fork](https://help.github.com/articles/fork-a-repo/) our documentation from the [kendo-ui-core](https://github.com/telerik/kendo-ui-core/tree/master/docs) repository.
 **Step 2:** Work on the issue you want to update in your local repository.
 **Step 3:** [Submit](https://help.github.com/articles/using-pull-requests/) a pull request.
 
